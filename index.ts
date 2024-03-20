@@ -24,3 +24,4 @@ if (answer.operator === "Addition") {
 } else {
   console.log("select the operator to perform operation");
 }
+console.log("the end")
