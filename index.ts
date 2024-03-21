@@ -25,3 +25,4 @@ if (answer.operator === "Addition") {
   console.log("select the operator to perform operation");
 }
 console.log("the end of the code")
+console.log("struggling with coding")
